@@ -1,0 +1,15 @@
+[project]
+name = "deep-mem"
+version = "1.0.0"
+description = "Deep memory search with progressive disclosure - search memories and explore related threads"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.1.0",
+    "httpx>=0.28.0",
+    "python-dotenv>=1.0.0",
+    "rich>=13.0.0",
+]
+
+[project.scripts]
+deep-mem = "deep_mem.cli:cli"
