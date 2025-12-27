@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+This repository has been archived. The functionality has been merged into the unified plugin:
+
+👉 **[nowledge-mem-plugins](https://github.com/ferstar/nowledge-mem-plugins)**
+
+---
+
 # Deep Memory Search
 
 Progressive disclosure search for Nowledge Mem knowledge base.
